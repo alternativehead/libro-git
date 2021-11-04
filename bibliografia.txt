@@ -1,6 +1,11 @@
 <<<<<<< HEAD
 Chac, S. and Straub, B. Pro Git. Apress.
+<<<<<<< HEAD
 Loeliger, J. and McCullough, M. Version control with Git. O’Reilly
 =======
 Chac, S. and Straub, B. Pro Git. Apress.
 >>>>>>> 317db35b584bd06da17ea0eb7d5b1d38f8ba792a
+=======
+Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
+Hodson, R. Ry’s Git Tutorial. Smashwords (2014)
+>>>>>>> bibliografia
